@@ -1,4 +1,7 @@
 {
+  "name": "idb-react-hook",
+  "author": "Adel Chemi",
+  "version": "0.1.0",
   "dependencies": {
     "typescript": "^4.5.5",
     "react": "17.0.2"
